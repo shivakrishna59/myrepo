@@ -1,5 +1,5 @@
-<h1 bgcolor="orange"> Hello, Welcome to The sample project deployment to Tomcat server !!! </h1>
-<h2> This is a sample helloworld project deploying using jenkins pipeline job </h2>
+<h1> Hello, Welcome to The sample project deployment to Tomcat server !!! </h1>
+<h2> This is a sample project deploying using jenkins pipeline job </h2>
 </br>
 </br>
 </br>
